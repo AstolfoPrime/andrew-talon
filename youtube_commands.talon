@@ -11,4 +11,7 @@ unmute video: key("m")
 # Maximize and Minimize Video
 maximize video: key("f")
 minimize video: key("f")
-b
+
+# Seeking Forward and Back in a Video
+seek forward: key("l")
+seek backward: key("j")
