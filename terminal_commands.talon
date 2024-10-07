@@ -4,8 +4,8 @@ superuser: "sudo "
 # Package managers for Linux
 aptitude: "apt "
 
-#TODO: I have to make this fucking work
-#ghost: "pacman"
+TODO: I have to make this fucking work
+ghost: "pacman"
 
 # Install
 install: "install "
