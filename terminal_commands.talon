@@ -1,14 +1,10 @@
 # Use sudo
 superuser: "sudo "
 
-# Package managers for Linux
-aptitude: "apt "
-
-TODO: I have to make this fucking work
 ghost: "pacman"
 
 # Install
-install: "install "
+install: "-S "
 
 # Directory Commands
 view directory: "ls"
