@@ -1,5 +1,5 @@
 # Use sudo
-superuser: "sudo "
+super: "sudo "
 
 ghost: "pacman"
 
