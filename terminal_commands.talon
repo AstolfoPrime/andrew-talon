@@ -3,8 +3,12 @@ super: "sudo "
 
 ghost: "pacman"
 
+package: "yay "
+
 # Install
 install: "-S "
+
+update: "-Syu"
 
 # Directory Commands
 view directory: "ls"
