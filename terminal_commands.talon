@@ -1,7 +1,7 @@
 # Use sudo
 super: "sudo "
 
-ghost: "pacman"
+ghost: "pacman "
 
 package: "yay "
 
@@ -19,7 +19,7 @@ update: "update"
 # Git command
 get: "git "
 
-commit: "commit -m "" "
+commit: "commit -m "
 
 push update: "push -u "
 
