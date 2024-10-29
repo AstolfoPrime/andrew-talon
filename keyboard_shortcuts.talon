@@ -8,6 +8,3 @@ window maximize: key("super-pgup")
 window minimize: key("super-pgdown")
 
 push: key("space")
-
-
-
