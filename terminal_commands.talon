@@ -3,8 +3,28 @@ super: "sudo "
 
 ghost: "pacman"
 
+package: "yay "
+
 # Install
 install: "-S "
+
+update: "-Syu"
+
+# Flatpack Commands
+flatpack: "flatpak"
+
+update: "update"
+
+# Git command
+get: "git "
+
+commit: "commit -m "" "
+
+push update: "push -u "
+
+ad: "add"
+
+clone: "clone "
 
 # Directory Commands
 view directory: "ls"
